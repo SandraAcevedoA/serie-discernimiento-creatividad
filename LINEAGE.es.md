@@ -16,7 +16,7 @@ Se basa en las páginas de clase y los syllabus públicos de la escuela, revisad
 
 ## Capítulo 1: *Pensamiento y Creatividad Soberanos con IA*
 
-**Relación:** adaptación situada de *Critical Thinking and Creativity with AI*. Toma la segunda mitad de la jornada de Liz (Workshops 04 a 09) y deja fuera la configuración del asistente y la producción automatizada.
+**Relación:** adaptación situada de *Critical Thinking and Creativity with AI*. Toma bloques seleccionados de la segunda mitad de la jornada de Liz (Workshops 04–09) y deja fuera la configuración del asistente y la producción automatizada.
 
 **Fuente**
 - Clase: [themultiverse.school/classes/277](https://themultiverse.school/classes/277)

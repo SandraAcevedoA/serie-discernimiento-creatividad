@@ -16,7 +16,7 @@ It is based on the school's public class pages and syllabi, checked on 2026-10-0
 
 ## Chapter 1: *Pensamiento y Creatividad Soberanos con IA*
 
-**Relationship:** situated adaptation of *Critical Thinking and Creativity with AI*. It takes the second half of Liz's day (Workshops 04 to 09) and leaves out assistant configuration and automated production.
+**Relationship:** situated adaptation of *Critical Thinking and Creativity with AI*. It draws from selected blocks in the second half of Liz's day (Workshops 04–09) and leaves out assistant configuration and automated production.
 
 **Source**
 - Class: [themultiverse.school/classes/277](https://themultiverse.school/classes/277)

@@ -34,7 +34,7 @@ Chapters 1 and 3 are situated adaptations of courses by Liz Howard at The Multiv
 
 ### This repository
 
-This repository connects the three workshops; it does not contain their material. Each workshop has its own repository, and the live syllabi are linked from each chapter page.
+This repository connects the three workshops; it does not contain their material. Each workshop will have its own repository. Published syllabi are linked from the chapter pages when available.
 
 | File | Contents |
 |---|---|
@@ -79,7 +79,7 @@ Los capítulos 1 y 3 son adaptaciones situadas de cursos de Liz Howard en The Mu
 
 ### Este repositorio
 
-Este repositorio conecta los tres workshops; no contiene su material. Cada workshop tiene su propio repositorio, y los syllabus vigentes están enlazados desde la página de cada capítulo.
+Este repositorio conecta los tres workshops; no contiene su material. Cada workshop tendrá su propio repositorio. Los syllabus publicados se enlazan desde las páginas de capítulo cuando están disponibles.
 
 | Archivo | Contenido |
 |---|---|
