@@ -16,7 +16,8 @@ First version of the series repository: `README.md`, one page per chapter in `ch
 | Every external link in `LINEAGE.md` and `LINEAGE.es.md` points to a public source that opens without logging in. | Any of those URLs failing from an anonymous request. | Anonymous HTTP request to every URL, 2026-10-02. | PASS |
 | The public `LINEAGE` contains no private repository paths, commit hashes or production-database details. | A vault path (`Curriculum/…`), a commit hash, or a reference to production tables, bindings or pathways. | Scripted search, 2026-10-02. | PASS |
 | No link points to a workshop repository that does not exist yet. | A link to `github.com/SandraAcevedoA/pensamiento-creatividad`, `inventiva-bajo-restriccion` or `software-libre` while that repository is missing. | Scripted search, 2026-10-02. | PASS |
-| The repository renders correctly on GitHub (tables, anchors, license detection). | A broken table, a heading anchor that does not match, or the license not being detected. | Requires a published repository. | NOT RUN |
+| Every table and heading anchor renders correctly on GitHub. | A table rendered as plain text, or an in-repository `#anchor` link with no matching heading in GitHub's rendered HTML. | GitHub-rendered HTML of every file in the private repository, 2026-10-02. | PASS |
+| `LICENSE` is the official CC BY-NC-SA 4.0 legal code, unmodified. | Any byte differing from `creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt`. | Byte comparison, 2026-10-02. GitHub lists the license as "Other" because it does not auto-detect NonCommercial licenses. | PASS |
 
 ---
 
@@ -34,4 +35,5 @@ Primera versión del repositorio de la serie: `README.md`, una página por capí
 | Todos los links externos de `LINEAGE.md` y `LINEAGE.es.md` apuntan a fuentes públicas que abren sin iniciar sesión. | Que alguna de esas URLs falle en una petición anónima. | Petición HTTP anónima a cada URL, 2026-10-02. | PASS |
 | El `LINEAGE` público no contiene rutas de repositorios privados, hashes de commits ni detalles de la base de datos de producción. | Una ruta del vault (`Curriculum/…`), un hash de commit o una referencia a tablas, bindings o pathways de producción. | Búsqueda automatizada, 2026-10-02. | PASS |
 | Ningún link apunta a un repositorio de workshop que todavía no existe. | Un link a `github.com/SandraAcevedoA/pensamiento-creatividad`, `inventiva-bajo-restriccion` o `software-libre` mientras ese repositorio no exista. | Búsqueda automatizada, 2026-10-02. | PASS |
-| El repositorio se ve bien en GitHub (tablas, anchors, detección de la licencia). | Una tabla rota, un anchor que no coincide o que GitHub no detecte la licencia. | Requiere el repositorio publicado. | NOT RUN |
+| Todas las tablas y anchors de encabezados se ven bien en GitHub. | Una tabla que aparece como texto plano, o un link `#anchor` interno sin encabezado correspondiente en el HTML que genera GitHub. | HTML renderizado por GitHub de cada archivo en el repositorio privado, 2026-10-02. | PASS |
+| `LICENSE` es el texto legal oficial de CC BY-NC-SA 4.0, sin modificar. | Cualquier byte distinto de `creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt`. | Comparación byte a byte, 2026-10-02. GitHub muestra la licencia como "Other" porque no detecta automáticamente las licencias NoComercial. | PASS |
