@@ -14,13 +14,13 @@
 
 **Relationship to The Multiverse School curriculum.** A situated adaptation of Liz Howard's *Critical Thinking and Creativity with AI*. Details in [LINEAGE](../LINEAGE.md#chapter-1-pensamiento-y-creatividad-soberanos-con-ia).
 
-**Status:** class published; syllabus published.
+**Status:** class published; syllabus published; repository published.
 
 | | |
 |---|---|
 | Class | [themultiverse.school/classes/289](https://themultiverse.school/classes/289) |
 | Syllabus | [HedgeDoc](https://docs.themultiverse.school/jbqGH4-LS42z50-i8Pvx7w) |
-| Repository | `pensamiento-creatividad` (coming soon) |
+| Repository | [`pensamiento-creatividad`](https://github.com/SandraAcevedoA/pensamiento-creatividad) |
 
 ---
 
@@ -36,10 +36,10 @@
 
 **Relación con el currículo de The Multiverse School.** Adaptación situada de *Critical Thinking and Creativity with AI*, de Liz Howard. El detalle está en [LINEAGE](../LINEAGE.es.md#capítulo-1-pensamiento-y-creatividad-soberanos-con-ia).
 
-**Estado:** clase publicada; syllabus publicado.
+**Estado:** clase publicada; syllabus publicado; repositorio publicado.
 
 | | |
 |---|---|
 | Clase | [themultiverse.school/classes/289](https://themultiverse.school/classes/289) |
 | Syllabus | [HedgeDoc](https://docs.themultiverse.school/jbqGH4-LS42z50-i8Pvx7w) |
-| Repositorio | `pensamiento-creatividad` (próximamente) |
+| Repositorio | [`pensamiento-creatividad`](https://github.com/SandraAcevedoA/pensamiento-creatividad) |

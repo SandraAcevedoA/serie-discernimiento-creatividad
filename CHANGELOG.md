@@ -4,6 +4,15 @@
 
 ## English
 
+### 0.1.1 · 2026-10-12
+
+Chapter 1 now has its repository, [`pensamiento-creatividad`](https://github.com/SandraAcevedoA/pensamiento-creatividad). `README.md` and `chapters/01-pensamiento-creatividad.md` link to it. The repositories for chapters 2 and 3 are still named but not linked.
+
+| Claim | What would disprove it | Check | Result |
+|---|---|---|---|
+| The chapter 1 repository is public and its link opens without logging in. | `github.com/SandraAcevedoA/pensamiento-creatividad` returning something other than 200 from an anonymous request. | Anonymous HTTP request, 2026-10-12. | PASS |
+| No link points to a workshop repository that does not exist yet. | A link to `github.com/SandraAcevedoA/inventiva-bajo-restriccion` or `software-libre` while that repository is missing. | Scripted search, 2026-10-12. | PASS |
+
 ### 0.1.0 · 2026-10-02
 
 First version of the series repository: `README.md`, one page per chapter in `chapters/`, the public `LINEAGE.md` / `LINEAGE.es.md` (draft) and `LICENSE` (CC BY-NC-SA 4.0). The three workshop repositories are named but not linked until they exist.
@@ -22,6 +31,15 @@ First version of the series repository: `README.md`, one page per chapter in `ch
 ---
 
 ## Español
+
+### 0.1.1 · 2026-10-12
+
+El capítulo 1 ya tiene su repositorio, [`pensamiento-creatividad`](https://github.com/SandraAcevedoA/pensamiento-creatividad). `README.md` y `chapters/01-pensamiento-creatividad.md` lo enlazan. Los repositorios de los capítulos 2 y 3 siguen nombrados, pero sin enlace.
+
+| Claim | Qué lo desmentiría | Verificación | Resultado |
+|---|---|---|---|
+| El repositorio del capítulo 1 es público y su link abre sin iniciar sesión. | Que `github.com/SandraAcevedoA/pensamiento-creatividad` responda algo distinto de 200 a una petición anónima. | Petición HTTP anónima, 2026-10-12. | PASS |
+| Ningún link apunta a un repositorio de workshop que todavía no existe. | Un link a `github.com/SandraAcevedoA/inventiva-bajo-restriccion` o `software-libre` mientras ese repositorio no exista. | Búsqueda automatizada, 2026-10-12. | PASS |
 
 ### 0.1.0 · 2026-10-02
 
