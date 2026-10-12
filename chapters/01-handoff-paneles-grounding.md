@@ -2,7 +2,7 @@
 
 **Fecha:** 12 de octubre de 2026  
 **Capítulo:** 1 · Pensamiento y Creatividad Soberana · Procesos Creativos Mediados por IA  
-**Alcance de este handoff:** construir/reemplazar el grounding conceptual en **4 paneles + cierre**. No reescribir todavía la máquina pedagógica del laboratorio.
+**Alcance:** construir/reemplazar el grounding conceptual en **4 paneles + cierre**. No reescribir todavía la máquina pedagógica del laboratorio.
 
 ## Artefacto a intervenir
 
@@ -42,7 +42,7 @@ Sacar la creatividad del territorio exclusivo de las bellas artes, la genialidad
 
 ### Visual
 
-Usar la ilustración radial de **CREATIVIDAD** ya producida para este panel: la esfera/órbita de línea continua que conecta actividades humanas cotidianas, técnicas, intelectuales y artísticas.
+Usar la ilustración radial de **CREATIVIDAD** ya producida para este panel.
 
 La imagen debe seguir funcionando como evidencia visual del argumento: creatividad no equivale a “hacer arte”.
 
@@ -56,7 +56,7 @@ La imagen debe seguir funcionando como evidencia visual del argumento: creativid
 
 ### Trabajo pedagógico
 
-El punto es hacer visible que el proceso creativo puede observarse como un conjunto de operaciones reconocibles, sin convertirlo en un pipeline universal o lineal.
+Hacer visible que el proceso creativo puede observarse como un conjunto de operaciones reconocibles, sin convertirlo en un pipeline universal o lineal.
 
 Puede incluir, de forma no secuencial:
 - intención/orientación;
@@ -96,7 +96,7 @@ La pregunta es qué operación está mediando o asumiendo la herramienta: buscar
 
 Usar:
 
-**`assets/chapter-1/bina48-stephanie-dinkins.webp`**
+**`assets/chapter-1/bina48-stephanie-dinkins.png`**
 
 La ubicación de BINA48/Stephanie Dinkins en **MEDIACIÓN** es deliberada.
 
@@ -124,7 +124,7 @@ Este panel abre directamente la lógica del laboratorio posterior.
 
 Usar:
 
-**`assets/chapter-1/proto-spawn.webp`**
+**`assets/chapter-1/proto-spawn.png`**
 
 PROTO va en **CRITERIO** por una razón específica.
 
@@ -155,8 +155,6 @@ El puente al Capítulo 2 mueve la idea de soberanía desde el proceso creativo m
 ---
 
 ## Recursos de contexto ya cerrados
-
-Estos recursos pertenecen principalmente al laboratorio, pero forman parte del sistema conceptual que los paneles están preparando:
 
 - **Vocabulario Crítico:** https://docs.themultiverse.school/VuikhAQWS6ihlAauii60yg
 - **¡Aprópiatelo! · Make It Yours, de Liz Howard:** https://docs.themultiverse.school/s/m4b__invb
