@@ -14,13 +14,13 @@
 
 **Relationship to The Multiverse School curriculum.** No source course. Related material from the school's curriculum converges with the chapter, but does not originate it. Details in [LINEAGE](../LINEAGE.md#chapter-2-inventiva-bajo-restricción-con-ia).
 
-**Status:** class published; syllabus in development.
+**Status:** published.
 
 | | |
 |---|---|
 | Class | [themultiverse.school/classes/290](https://themultiverse.school/classes/290) |
-| Syllabus | in development |
-| Repository | `inventiva-bajo-restriccion` (coming soon) |
+| Syllabus | [Inventiva Bajo Restricción con IA](https://docs.themultiverse.school/s/WYMONIN3Q) |
+| Repository | [`Inventiva-Bajo-Restriccion`](https://github.com/SandraAcevedoA/Inventiva-Bajo-Restriccion) |\n| Web artifact | [themultiverse.school/x/inventiva-bajo-restriccion](https://themultiverse.school/x/inventiva-bajo-restriccion) |
 
 ---
 
@@ -36,10 +36,10 @@
 
 **Relación con el currículo de The Multiverse School.** No tiene curso fuente. Hay material relacionado en el currículo de la escuela que converge con el capítulo, pero no lo origina. El detalle está en [LINEAGE](../LINEAGE.es.md#capítulo-2-inventiva-bajo-restricción-con-ia).
 
-**Estado:** clase publicada; syllabus en desarrollo.
+**Estado:** publicado.
 
 | | |
 |---|---|
 | Clase | [themultiverse.school/classes/290](https://themultiverse.school/classes/290) |
-| Syllabus | en desarrollo |
-| Repositorio | `inventiva-bajo-restriccion` (próximamente) |
+| Syllabus | [Inventiva Bajo Restricción con IA](https://docs.themultiverse.school/s/WYMONIN3Q) |
+| Repositorio | [`Inventiva-Bajo-Restriccion`](https://github.com/SandraAcevedoA/Inventiva-Bajo-Restriccion) |\n| Artefacto web | [themultiverse.school/x/inventiva-bajo-restriccion](https://themultiverse.school/x/inventiva-bajo-restriccion) |
