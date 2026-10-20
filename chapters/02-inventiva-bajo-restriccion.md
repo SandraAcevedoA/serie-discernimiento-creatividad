@@ -20,7 +20,8 @@
 |---|---|
 | Class | [themultiverse.school/classes/290](https://themultiverse.school/classes/290) |
 | Syllabus | [Inventiva Bajo Restricción con IA](https://docs.themultiverse.school/s/WYMONIN3Q) |
-| Repository | [`Inventiva-Bajo-Restriccion`](https://github.com/SandraAcevedoA/Inventiva-Bajo-Restriccion) |\n| Web artifact | [themultiverse.school/x/inventiva-bajo-restriccion](https://themultiverse.school/x/inventiva-bajo-restriccion) |
+| Repository | [`Inventiva-Bajo-Restriccion`](https://github.com/SandraAcevedoA/Inventiva-Bajo-Restriccion) |
+| Web artifact | [themultiverse.school/x/inventiva-bajo-restriccion](https://themultiverse.school/x/inventiva-bajo-restriccion) |
 
 ---
 
@@ -42,4 +43,5 @@
 |---|---|
 | Clase | [themultiverse.school/classes/290](https://themultiverse.school/classes/290) |
 | Syllabus | [Inventiva Bajo Restricción con IA](https://docs.themultiverse.school/s/WYMONIN3Q) |
-| Repositorio | [`Inventiva-Bajo-Restriccion`](https://github.com/SandraAcevedoA/Inventiva-Bajo-Restriccion) |\n| Artefacto web | [themultiverse.school/x/inventiva-bajo-restriccion](https://themultiverse.school/x/inventiva-bajo-restriccion) |
+| Repositorio | [`Inventiva-Bajo-Restriccion`](https://github.com/SandraAcevedoA/Inventiva-Bajo-Restriccion) |
+| Artefacto web | [themultiverse.school/x/inventiva-bajo-restriccion](https://themultiverse.school/x/inventiva-bajo-restriccion) |

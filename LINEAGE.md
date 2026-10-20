@@ -1,16 +1,16 @@
 # LINEAGE: the series and The Multiverse School curriculum
 
-> **Status:** draft · 2026-10-02 · Spanish version: [`LINEAGE.es.md`](LINEAGE.es.md)
+> **Status:** draft · 2026-10-02, Chapter 3 updated 2026-10-19 · Spanish version: [`LINEAGE.es.md`](LINEAGE.es.md)
 
 This document is a map. For each chapter of the series *Discernimiento humano y creatividad soberana mediada por IA* (human discernment and sovereign creativity, mediated by AI), it says which of Liz Howard's material at The Multiverse School the chapter touches, where that material can be consulted publicly, and how the chapter relates to it. The goal is that the source material can be recognized, and that it is clear where it stops.
 
-It is based on the school's public class pages and syllabi, checked on 2026-10-02. A more detailed internal version exists and is shared privately with Liz Howard / The Multiverse School.
+It is based on the school's public class pages and syllabi, checked on 2026-10-02 (Chapter 3 on 2026-10-19). A more detailed internal version exists and is shared privately with Liz Howard / The Multiverse School.
 
 | Ch. | Workshop | Relationship to Liz's material | Main source |
 |---|---|---|---|
 | 1 | [Pensamiento y Creatividad Soberanos con IA](https://themultiverse.school/classes/289) | **Situated adaptation** | *Critical Thinking and Creativity with AI* |
 | 2 | [Inventiva bajo restricción con IA](https://themultiverse.school/classes/290) | **No source course.** Liz's material converges with the chapter but does not originate it | pieces from *Build a Cyberdeck*, *Solarpunk Automation* and *Consumer Device Rescue and Defense* |
-| 3 | [Software libre con IA](https://themultiverse.school/classes/291) | **Situated adaptation, with an added systems-design layer** | *Intro to Open Source Software* |
+| 3 | [Software libre con IA](https://themultiverse.school/classes/291) | **Situated adaptation.** The first part follows the course; the second belongs to the chapter | *Intro to Open Source Software*; the GitHub resource adapts Git material from *Agentic SDLC* |
 
 ---
 
@@ -72,13 +72,13 @@ It is based on the school's public class pages and syllabi, checked on 2026-10-0
 
 ## Chapter 3: *Software libre con IA*
 
-**Relationship:** situated adaptation of *Intro to Open Source Software*, with an added systems-design layer around tool selection, dependency, cost, local/cloud tradeoffs, and composing a fit-for-purpose software stack.
+**Relationship:** situated adaptation of *Intro to Open Source Software*. The first part of the workshop (90 minutes) follows the structure of that course. The second part (up to 60 minutes) belongs to the chapter: context for Spanish-speaking and Latin American communities, a conceptual bridge (clean room) and the closing of the series. The chapter also has two companion resources; one of them adapts Git material from another of Liz's courses.
 
 **Source**
 - Class: [themultiverse.school/classes/275](https://themultiverse.school/classes/275)
 - Syllabus: [HedgeDoc](https://docs.themultiverse.school/5BcyfckcRDq3WUWOZvl4ng)
 - Slides: [docs.themultiverse.school/p/intro-to-open-source-slides](https://docs.themultiverse.school/p/intro-to-open-source-slides), including *The Replacement Tables – Cheat Sheet*
-- Recordings listed in the syllabus, among them: Feb '26, [*Exploring Open Source Software Alternatives and Budgeting for Tech Expenses*](https://www.loom.com/share/37e3586a6fb943cf86291db46504206c), and March '26, [Loom](https://www.loom.com/share/cafc5114eb10488c8b451ed8dbd37582)
+- Recordings listed in the syllabus, among them: Feb '26, [*Exploring Open Source Software Alternatives and Budgeting for Tech Expenses*](https://www.loom.com/share/37e3586a6fb943cf86291db46504206c); March '26, [Loom](https://www.loom.com/share/cafc5114eb10488c8b451ed8dbd37582); and May '26, [*Open Alternative Guide to Switching Software*](https://www.loom.com/share/93bc32a328dd433bbeb482f240091f1d)
 
 **What Liz's course teaches.** A 90-minute session whose motivation is *"Stop paying for software you can get for free"*. It includes:
 - an audit of the software you pay for;
@@ -89,16 +89,28 @@ It is based on the school's public class pages and syllabi, checked on 2026-10-0
 
 The facilitator notes say: *"The audience doesn't need to know about licenses, Git, or contribution workflows."*
 
-**What is adapted: savings.** The chapter keeps savings, but frames them as **frugality: a permanent practice of managing resources**, not only as cutting spending. In Liz's course the starting point is someone who already pays for subscriptions.
+**Block by block**
 
-**The added layer: systems design.** The chapter does not stop at swapping isolated tools. Each person works out:
-- which functions they need;
-- how tools work together, in series or in parallel;
-- what is better kept local and what in the cloud;
-- what is worth paying for;
-- what dependencies each part of the system introduces.
+| Series block | Liz's course | What is taken |
+|---|---|---|
+| 1 · Start from a need | Block 1 *The Software Audit* | entering through the tools you use; instead of auditing all spending, each person picks one tool or capability |
+| 2 · What "free software" means in practice | Block 2 *What "Open Source" Actually Means* | the short explanation and the table of types: desktop app, web app and self-hosted |
+| 3 · A first map: OpenAlternative | Block 3 *Live Demo — openalternative.co* and Block 4 *Find Your Replacements* | openalternative.co as the starting directory |
+| 4 · Reading a repository | Block 2 *How to Tell If It's Good*; the March 2026 recording (*Software Popularity Metrics*, 09:21; *Forks and Community Involvement*, 17:12) and the May 2026 recording | stars, last-commit date and forks as signals. Liz's syllabus reads stars as reviews (*"More stars = more people use and trust it"*); the chapter reads them as attention, not trust, and adds age, contributors, releases, issues and pull requests |
+| 5 · GitHub without becoming a developer | no equivalent in this course | — |
+| 6 · AI as Repo Scout | no equivalent | — |
+| 7 · Choosing an adoption route | Block 7 *The Monthly Progression* | the steps of the progression (easy wins, self-hosted, tool migration) become three adoption routes, not months |
+| 8 · The problem is not always "saving" | no equivalent | Liz's course starts from savings; the chapter adds access |
+| 9 · Clean Room (complementary material) | no equivalent | comes from Chapter 2 of the series |
+| 10 · Closing the circle | no equivalent | the closing of the series |
 
-Liz's curriculum has nearby material for AI models: choosing a model by task and deciding where it runs by cost per outcome, in [*Control AI Spending*](https://themultiverse.school/classes/249) and [*Hosting Open-Source Models*](https://themultiverse.school/classes/252). There is no equivalent for composing a chain of tools for general work.
+**What was not carried over:** installing a tool in class (Block 6 *Install One Right Now*) is no longer required; it is tried only when there is an easy win that takes a few minutes. The group share as a fixed block (Block 5 *Group Share*), the reference table of paid tools, the savings log (*Track Your Savings*), the homework and the monthly progression as a recurring practice were not carried over either.
+
+**Companion resources**
+- [*GitHub para leer repositorios*](https://themultiverse.school/x/github-para-leer-repositorios) adapts the Git material of the *Agentic SDLC* companion: the [*Git, PRs, branches*](https://themultiverse.school/x/agentic-sdlc-companion#gitwords) block, [*Git, for People Who Never Got Good at GitHub*](https://themultiverse.school/x/agentic-sdlc-git-situations) and [*Branches, Pull Requests and Release Lanes*](https://themultiverse.school/x/agentic-sdlc-devops-git). It takes the definitions (repository, commit, branch, pull request, merge, tag, semver), reading a pull request page, fork vs. branch and the word table. It leaves out release lanes, preview URLs, per-agent worktrees, CI and deployment, because they teach how to operate a repository rather than how to read one.
+- [*Repo Scout*](https://themultiverse.school/x/repo-scout) gathers the signals of block 4. The prompt and the personal standards belong to the chapter.
+
+**Where Liz's material stops:** the *Intro to Open Source Software* material reaches block 7. Blocks 5 and 6 and the second part (blocks 8 to 10) have no equivalent in that course.
 
 ---
 
@@ -112,4 +124,4 @@ Liz's curriculum has nearby material for AI models: choosing a model by task and
 
 ## Source note
 
-The HedgeDoc syllabi are living documents: Liz updates them with each cohort. This map reflects what they said on 2026-10-02.
+The HedgeDoc syllabi are living documents: Liz updates them with each cohort. This map reflects what they said on 2026-10-02; the Chapter 3 section, what they said on 2026-10-19.
