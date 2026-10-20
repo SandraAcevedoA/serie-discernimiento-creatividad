@@ -20,7 +20,7 @@
 |---|---|
 | Class | [themultiverse.school/classes/291](https://themultiverse.school/classes/291) |
 | Syllabus | in development |
-| Repository | `software-libre` (coming soon) |
+| Repository | [`software-libre`](https://github.com/SandraAcevedoA/software-libre) |
 
 ---
 
@@ -42,4 +42,4 @@
 |---|---|
 | Clase | [themultiverse.school/classes/291](https://themultiverse.school/classes/291) |
 | Syllabus | en desarrollo |
-| Repositorio | `software-libre` (próximamente) |
+| Repositorio | [`software-libre`](https://github.com/SandraAcevedoA/software-libre) |

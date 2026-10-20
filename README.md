@@ -18,7 +18,7 @@ The question is how to work with technology, AI included, without handing over b
 |---|---|---|---|---|---|
 | 1 | [Pensamiento y Creatividad Soberanos con IA](chapters/01-pensamiento-creatividad.md) | cognitive | What decisions in AI-mediated work can I recognize, explain, and defend as my own? | [TMS 289](https://themultiverse.school/classes/289) | [`pensamiento-creatividad`](https://github.com/SandraAcevedoA/pensamiento-creatividad) |
 | 2 | [Inventiva bajo restricción con IA](chapters/02-inventiva-bajo-restriccion.md) | material | What can I do when the solution designed for me does not exist, is unavailable, is unaffordable, or simply does not fit my reality? | [TMS 290](https://themultiverse.school/classes/290) | [`Inventiva-Bajo-Restriccion`](https://github.com/SandraAcevedoA/Inventiva-Bajo-Restriccion) |
-| 3 | [Software libre con IA](chapters/03-software-libre.md) | digital | What do my digital tools depend on, what can I replace, and how much control do I actually need? | [TMS 291](https://themultiverse.school/classes/291) | `software-libre` (coming soon) |
+| 3 | [Software libre con IA](chapters/03-software-libre.md) | digital | What do my digital tools depend on, what can I replace, and how much control do I actually need? | [TMS 291](https://themultiverse.school/classes/291) | [`software-libre`](https://github.com/SandraAcevedoA/software-libre) |
 
 ### How the chapters connect
 
@@ -63,7 +63,7 @@ La pregunta es cómo trabajar con tecnología, incluida la IA, sin entregar por 
 |---|---|---|---|---|---|
 | 1 | [Pensamiento y Creatividad Soberanos con IA](chapters/01-pensamiento-creatividad.md) | cognitiva | ¿Qué decisiones del trabajo mediado por IA puedo reconocer, explicar y defender como propias? | [TMS 289](https://themultiverse.school/classes/289) | [`pensamiento-creatividad`](https://github.com/SandraAcevedoA/pensamiento-creatividad) |
 | 2 | [Inventiva bajo restricción con IA](chapters/02-inventiva-bajo-restriccion.md) | material | ¿Qué puedo hacer cuando la solución diseñada para mí no existe, no está disponible, no puedo pagarla o simplemente no se ajusta a mi realidad? | [TMS 290](https://themultiverse.school/classes/290) | [`Inventiva-Bajo-Restriccion`](https://github.com/SandraAcevedoA/Inventiva-Bajo-Restriccion) |
-| 3 | [Software libre con IA](chapters/03-software-libre.md) | digital | ¿De qué dependen mis herramientas digitales, qué puedo reemplazar y cuánto control necesito realmente? | [TMS 291](https://themultiverse.school/classes/291) | `software-libre` (próximamente) |
+| 3 | [Software libre con IA](chapters/03-software-libre.md) | digital | ¿De qué dependen mis herramientas digitales, qué puedo reemplazar y cuánto control necesito realmente? | [TMS 291](https://themultiverse.school/classes/291) | [`software-libre`](https://github.com/SandraAcevedoA/software-libre) |
 
 ### Cómo se conectan los capítulos
 
