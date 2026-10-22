@@ -4,6 +4,21 @@
 
 ## English
 
+### 0.1.2 · 2026-10-21
+
+The umbrella repository was reconciled after all three workshops had been produced and published.
+
+- All three chapter repositories now exist publicly and are linked from the README and chapter pages.
+- The README no longer describes a fixed three-hour format or future repositories; duration and format are chapter-specific.
+- The series summary now reflects the final Chapter 2 framing: functional reasoning and AI-assisted resolving, exploring and adapting under constraint, rather than a generic agency/research-tool framing.
+- This repository-only reconciliation does **not** edit HedgeDoc, TMS curriculum data, or class metadata.
+
+| Claim | What would disprove it | Check | Result |
+|---|---|---|---|
+| All three public workshop repositories exist and are linked from this repository. | Any chapter repository is missing/private, or a chapter/README link points elsewhere. | GitHub repository state and current links checked 2026-10-21. | PASS |
+| The README describes the series as already produced rather than future work. | Future-tense repository language or a universal three-hour claim remains in the README. | Current README text checked 2026-10-21. | PASS |
+| Chapter 2 no longer centers the superseded agency/research-tool framing. | Its public chapter page still describes the chapter as carrying “agency” into the material world or limits AI to research. | Current chapter 2 text checked 2026-10-21. | PASS |
+
 ### 0.1.1 · 2026-10-12
 
 Chapter 1 now has its repository, [`pensamiento-creatividad`](https://github.com/SandraAcevedoA/pensamiento-creatividad). `README.md` and `chapters/01-pensamiento-creatividad.md` link to it. The repositories for chapters 2 and 3 are still named but not linked.
@@ -31,6 +46,21 @@ First version of the series repository: `README.md`, one page per chapter in `ch
 ---
 
 ## Español
+
+### 0.1.2 · 2026-10-21
+
+El repositorio paraguas se reconcilió después de que los tres workshops fueran producidos y publicados.
+
+- Los tres repositorios de capítulo ya existen públicamente y están enlazados desde el README y las páginas de capítulo.
+- El README deja de describir una duración fija de tres horas o repositorios futuros; la duración y el formato dependen de cada capítulo.
+- La síntesis de la serie refleja el framing final del capítulo 2: razonamiento funcional y uso de IA para resolver, explorar y adaptar bajo restricción, en vez de un framing genérico de agencia/“herramienta de investigación”.
+- Esta reconciliación ocurre sólo en este repositorio: **no** edita HedgeDoc, datos curriculares de TMS ni metadata de las clases.
+
+| Claim | Qué lo desmentiría | Verificación | Resultado |
+|---|---|---|---|
+| Los tres repositorios públicos de workshop existen y están enlazados desde este repositorio. | Que falte o sea privado alguno de los repositorios, o que los links del README/capítulos apunten a otra cosa. | Estado de repositorios y links actuales en GitHub, 2026-10-21. | PASS |
+| El README describe la serie como trabajo ya producido y no como trabajo futuro. | Que permanezca lenguaje de repositorios futuros o una duración universal de tres horas. | Texto actual del README revisado el 2026-10-21. | PASS |
+| El capítulo 2 ya no centra el framing superado de agencia/“herramienta de investigación”. | Que su página pública siga describiendo el capítulo como traslado de la “agencia” al mundo material o limite la IA a investigación. | Texto actual del capítulo 2 revisado el 2026-10-21. | PASS |
 
 ### 0.1.1 · 2026-10-12
 

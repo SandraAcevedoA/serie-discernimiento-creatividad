@@ -6,11 +6,11 @@
 
 ## English
 
-**Discernimiento humano y creatividad soberana mediada por IA** (*Human discernment and sovereign creativity, mediated by AI*) is a series of three applied workshops taught in Spanish at [The Multiverse School](https://themultiverse.school). Each workshop runs three hours and stands on its own. Taken together, they follow one question across three layers of our relationship with technology:
+**Discernimiento humano y creatividad soberana mediada por IA** (*Human discernment and sovereign creativity, mediated by AI*) is a series of three applied workshops taught in Spanish at [The Multiverse School](https://themultiverse.school). Each workshop stands on its own; duration and format vary by chapter. Taken together, they follow one question across three layers of our relationship with technology:
 
 **cognitive → material → digital**
 
-The question is how to work with technology, AI included, without handing over by default our judgment, our ability to invent, or our control over the tools we depend on.
+The series asks how creative and technical work changes when AI becomes part of the process: what it helps us notice, generate, explore, adapt and decide across different kinds of constraints.
 
 ### The three chapters
 
@@ -22,11 +22,11 @@ The question is how to work with technology, AI included, without handing over b
 
 ### How the chapters connect
 
-- **Chapter 1** works on judgment: what I delegate to AI, which criteria I use to direct it, and which decisions I keep.
-- **Chapter 2** carries that judgment into the material world: seeing a technological object as a set of functions, parts and interfaces rather than a closed product, and working from the resources actually available.
-- **Chapter 3** applies the same way of looking to software, data and services: what my tools do, how they work together, what each part makes me depend on, and what I can replace.
+- **Chapter 1** starts from broad, everyday creativity, non-linear process and the question of where meaning sits when AI becomes a medium in the work.
+- **Chapter 2** moves into material constraints: functional reasoning, decomposition, fixedness, parts and interfaces, adaptation and recombination with the resources actually available.
+- **Chapter 3** applies that practical lens to software, data and services: alternatives, repository literacy, adoption routes and AI-assisted scouting of open-source projects.
 
-The workshops are independent, but their logic is cumulative. AI is present in all three, and its role changes: an object of examination and a collaborator in Chapter 1, a research tool in Chapters 2 and 3. In none of them does it replace the person's discernment.
+The workshops are independent, but their logic is cumulative. AI is a working medium in all three: Chapter 1 uses it to examine and make creative processes explicit; Chapter 2 uses it to explore functions, constraints, alternatives and recombinations; Chapter 3 uses it to scout and assess software and repositories. The series does not impose one universal human-first or AI-first rule; each chapter defines the role of AI locally.
 
 ### Provenance
 
@@ -34,7 +34,7 @@ Chapters 1 and 3 are situated adaptations of courses by Liz Howard at The Multiv
 
 ### This repository
 
-This repository connects the three workshops; it does not contain their material. Each workshop will have its own repository. Published syllabi are linked from the chapter pages when available.
+This repository connects the three workshops; it does not contain their full material. Each workshop has its own public repository, and the chapter pages link to the corresponding class, syllabus, repository and participant-facing resources.
 
 | File | Contents |
 |---|---|
@@ -51,11 +51,11 @@ Created by **Sandra Acevedo**. Licensed under [Creative Commons Attribution-NonC
 
 ## Español
 
-**Discernimiento humano y creatividad soberana mediada por IA** es una serie de tres workshops aplicados, impartidos en español en [The Multiverse School](https://themultiverse.school). Cada workshop dura tres horas y funciona por sí solo. Juntos, siguen una misma pregunta a través de tres capas de nuestra relación con la tecnología:
+**Discernimiento humano y creatividad soberana mediada por IA** es una serie de tres workshops aplicados, impartidos en español en [The Multiverse School](https://themultiverse.school). Cada workshop funciona por sí solo; la duración y el formato varían según el capítulo. Juntos, siguen una misma pregunta a través de tres capas de nuestra relación con la tecnología:
 
 **cognitiva → material → digital**
 
-La pregunta es cómo trabajar con tecnología, incluida la IA, sin entregar por defecto nuestro criterio, nuestra capacidad de inventar ni el control sobre las herramientas de las que dependemos.
+La serie pregunta cómo cambia el trabajo creativo y técnico cuando la IA pasa a formar parte del proceso: qué nos ayuda a notar, generar, explorar, adaptar y decidir frente a distintos tipos de restricción.
 
 ### Los tres capítulos
 
@@ -67,11 +67,11 @@ La pregunta es cómo trabajar con tecnología, incluida la IA, sin entregar por 
 
 ### Cómo se conectan los capítulos
 
-- **El capítulo 1** trabaja el criterio: qué le delego a la IA, con qué criterios la dirijo y qué decisiones conservo.
-- **El capítulo 2** lleva ese criterio al mundo material: ver un objeto tecnológico como un conjunto de funciones, piezas e interfaces y no como un producto cerrado, y trabajar con los recursos que de verdad están disponibles.
-- **El capítulo 3** aplica la misma mirada al software, los datos y los servicios: qué hacen mis herramientas, cómo trabajan juntas, de qué me hace depender cada parte y qué puedo reemplazar.
+- **El capítulo 1** parte de la creatividad amplia y cotidiana, el proceso no lineal y la pregunta por dónde queda el significado cuando la IA pasa a ser una mediación del trabajo.
+- **El capítulo 2** se mueve a las restricciones materiales: razonamiento funcional, descomposición, fijación funcional, piezas e interfaces, adaptación y recombinación con los recursos realmente disponibles.
+- **El capítulo 3** aplica esa mirada práctica al software, los datos y los servicios: alternativas, lectura de repositorios, rutas de adopción y búsqueda asistida por IA de proyectos open source.
 
-Los workshops son independientes, pero su lógica es acumulativa. La IA está presente en los tres y su papel cambia: en el capítulo 1 es objeto de examen y colaboradora; en los capítulos 2 y 3 es herramienta de investigación. En ninguno reemplaza el discernimiento de la persona.
+Los workshops son independientes, pero su lógica es acumulativa. La IA es un medio de trabajo en los tres: el capítulo 1 la usa para examinar y hacer explícitos procesos creativos; el capítulo 2 para explorar funciones, restricciones, alternativas y recombinaciones; el capítulo 3 para buscar y evaluar software y repositorios. La serie no impone una regla universal de humano-primero o IA-primero; cada capítulo define localmente el papel de la IA.
 
 ### Procedencia
 
@@ -79,7 +79,7 @@ Los capítulos 1 y 3 son adaptaciones situadas de cursos de Liz Howard en The Mu
 
 ### Este repositorio
 
-Este repositorio conecta los tres workshops; no contiene su material. Cada workshop tendrá su propio repositorio. Los syllabus publicados se enlazan desde las páginas de capítulo cuando están disponibles.
+Este repositorio conecta los tres workshops; no contiene todo su material. Cada workshop tiene su propio repositorio público, y las páginas de capítulo enlazan a la clase, el syllabus, el repositorio y los recursos participant-facing correspondientes.
 
 | Archivo | Contenido |
 |---|---|
